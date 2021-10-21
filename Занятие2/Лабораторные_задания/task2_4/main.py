@@ -6,4 +6,4 @@ if __name__ == "__main__":
     list_ = ["H", "e", "l", "l", "o", ",", "w", "o", "r", "l", "d"]
     for index, char in enumerate(list_, start=5):
 
-        print(" " * index + char)
+        print(char)
